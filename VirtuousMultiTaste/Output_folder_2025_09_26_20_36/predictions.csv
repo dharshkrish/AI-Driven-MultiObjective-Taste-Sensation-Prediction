@@ -1,0 +1,6 @@
+SMILES,Bitter,Sweet,Umami,Other,Dominant
+CCO,0.44,0.35,0.01,0.2,BITTER
+CCN,0.42,0.35,0.0,0.23,BITTER
+c1ccccc1,0.4,0.54,0.0,0.06,SWEET
+CN(C(=O)C(C)(c1ccccc1)c1ccccc1)C1CCCCC1,0.75,0.06,0.04,0.15,BITTER
+CC[C@H](C)[C@H](NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](CO)NC(=O)[C@H](C)N)[C@@H](C)CC)C(=O)N[C@@H](CC(N)=O)C(=O)O,0.01,0.0,0.98,0.01,UMAMI

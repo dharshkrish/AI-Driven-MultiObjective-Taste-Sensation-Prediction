@@ -1,0 +1,253 @@
+Food_Item,Taste,Compound,Healthy_Alternative,Notes
+Pizza,Umami,Inosinate,Whole Wheat Veg Pizza,Cheese and tomato give strong umami; whole grains are healthier
+Idli,Umami,Glutamic acid,Oats Idli,Rich in umami amino acids; fermented and protein-balanced
+Biryani,Umami,Guanylate,Millet Vegetable Biryani,Retains meaty umami flavor; lower oil content
+Dosa,Umami,Glutamate,Buckwheat Dosa,Light and savory; enhances digestibility
+Burger,Umami,Cysteine,Grilled Veg Burger,High-protein umami; reduces oil content
+Ice Cream,Sweet,Sucrose,Frozen Yogurt,Rich in sweetness; probiotic alternative
+Samosa,Other,Linalool,Baked Samosa,Spicy and aromatic; less oily version
+French Fries,Other,Acrolein,Air Fried Fries,Retains crispness with less oil
+Cake,Sweet,Fructose,Whole Wheat Jaggery Cake,Soft texture with natural sweetness
+Pasta,Umami,Glutamate,Whole Wheat Pasta,Maintains savory depth with added fiber
+Pakora,Other,Limonene,Grilled Pakora,Crunchy yet healthy baked alternative
+Chole Curry,Umami,Glutamic acid,Boiled Chickpeas Salad,High protein; lighter on oil
+Rasgulla,Sweet,Sucrose,Stevia Rasgulla,Low-calorie sweetness
+Halwa,Sweet,Maltose,Oats Halwa,Nutrient-rich; made with jaggery
+Laddu,Sweet,Glucose,Flaxseed Laddu,High fiber and omega-3 variant
+Tea,Other,Tannins,Green Tea,Antioxidant-rich with mild bitterness
+Coffee,Bitter,Caffeine,Decaf Coffee,Rich aroma with reduced bitterness
+Chocolate,Bitter,Theobromine,Dark Chocolate (>70%),Cocoa-rich with less sugar
+Chips,Other,Acrolein,Baked Chips,Crunchy and low-oil
+Noodles,Umami,Glutamate,Whole Wheat Noodles,Same flavor with reduced sodium
+Sandwich,Umami,Lysine,Whole Grain Veg Sandwich,Protein-rich and balanced
+Pani Puri,Other,Limonene,Baked Puri with Tamarind Water,Low-oil variant; retains tang
+Kheer,Sweet,Lactose,Quinoa Kheer,High-protein milk alternative dessert
+Butter Chicken,Umami,Inosinate,Grilled Paneer Curry,Reduced fat; same umami flavor
+Fried Rice,Other,Acrolein,Brown Rice Stir Fry,High fiber; mild savory flavor
+Paratha,Other,Linalool,Multigrain Paratha,Aromatic and nutritious
+Donut,Sweet,Sucrose,Baked Millet Donut,Healthier with natural sweeteners
+Pav Bhaji,Umami,Glutamate,Millet Pav Bhaji,Less butter; same umami intensity
+Maggie,Umami,Monosodium Glutamate,Millet Noodles,Low sodium; same depth
+Falooda,Sweet,Fructose,Chia Fruit Falooda,Hydrating and low-sugar
+Gulab Jamun,Sweet,Sucrose,Baked Gulab Jamun,Low oil; retains flavor
+Poori,Other,Linalool,Baked Poori,Crunchy and low-fat
+Vada,Other,Limonene,Baked Vada,Healthy crisp version
+Bajji,Other,Acrolein,Air Fried Bajji,Crunchy and low oil
+Milkshake,Sweet,Lactose,Banana Almond Smoothie,Nutrient-rich alternative
+Cola,Bitter,Phosphoric acid,Lemon Sparkling Water,Refreshing low-cal drink
+Pongal,Umami,Glutamic acid,Millet Pongal,Protein-balanced version
+Manchurian,Umami,Sodium Glutamate,Baked Veg Manchurian,Umami-rich and low oil
+Soup,Umami,Glutamate,Vegetable Clear Soup,Savory and light
+Kulfi,Sweet,Sucrose,Almond Milk Kulfi,Low sugar and creamy
+Sushi,Umami,Inosinate,Vegetable Sushi Roll,High-fiber umami variant
+Momo,Umami,Glutamate,Steamed Veg Momo,Low-fat savory dumpling
+Brownie,Sweet,Glucose,Dates Brownie,Naturally sweetened
+Roti,Other,Linalool,Multigrain Roti,Fiber-rich and aromatic
+Energy Drink,Bitter,Caffeine,Natural Electrolyte Drink,Hydrating energy booster
+Yogurt,Sour,Lactic acid,Greek Yogurt,High protein; same tangy flavor
+Taco,Umami,Glutamate,Whole Wheat Taco,Fiber-rich crunchy version
+Popcorn,Other,Limonene,Air Popped Popcorn,Light snack with minimal oil
+Paneer Tikka,Umami,Cysteine,Grilled Tofu Skewers,Plant-protein alternative
+Kebab,Umami,Glutamate,Grilled Soya Kebab,High protein; low fat
+Pudding,Sweet,Sucrose,Chia Seed Pudding,Low-cal and nutrient-rich
+Pickle,Sour,Acetic acid,Fermented Veg Pickle,Probiotic tangy taste
+Dhokla,Umami,Glutamic acid,Oats Dhokla,Light and fermented
+Cereal,Sweet,Maltose,Multigrain Cereal,High fiber breakfast
+Smoothie,Sweet,Fructose,Fruit-Oat Smoothie,Nutrient-dense drink
+Ramen,Umami,Monosodium Glutamate,Millet Ramen,Low sodium; rich flavor
+Cupcake,Sweet,Glucose,Oats Cupcake,Soft and healthy baked
+Lemonade,Sour,Citric acid,Mint Lemon Detox Water,Natural refreshing flavor
+Kofta Curry,Umami,Glutamate,Baked Veg Kofta,Low-oil and flavorful
+Cheese Sandwich,Umami,Glutamate,Tofu Veg Sandwich,Low-fat; high protein
+Spring Rolls,Other,Limonene,Baked Spring Rolls,Crispy and healthy snack
+Hot Chocolate,Sweet,Theobromine,Low Sugar Cocoa Drink,Rich cocoa taste
+Pastry,Sweet,Fructose,Whole Wheat Muffin,Healthier dessert version
+Pasta Sauce,Umami,Guanylate,Tomato Basil Sauce,Rich umami with low sodium
+Soup Sticks,Other,Acrolein,Baked Soup Sticks,Crispy light snack
+Tandoori Roti,Other,Linalool,Bajra Roti,Fiber-rich and smoky
+Bread Omelette,Umami,Lysine,Vegetable Omelette Sandwich,High protein; low fat
+Waffles,Sweet,Fructose,Oats Waffles,Low sugar breakfast
+Salad,Other,Linalool,Olive Oil Salad,Fresh and aromatic
+Paneer Butter Masala,Umami,Glutamate,Cashew Paneer Curry,Low cream; same richness
+Veg Pulao,Umami,Guanylate,Quinoa Pulao,Nutrient-dense variation
+Pasta Alfredo,Umami,Glutamate,Oats Cream Pasta,Low-fat and creamy
+Tart,Sweet,Fructose,Fruit Tart with Jaggery,Low sugar dessert
+Nachos,Other,Limonene,Baked Nachos,Crunchy and low-oil snack
+Burrito,Umami,Glutamate,Whole Grain Veg Burrito,High protein and fiber
+Hot Dog,Umami,Cysteine,Veg Soy Hot Dog,Low-fat and high protein
+Croissant,Other,Linalool,Whole Wheat Croissant,Flaky and nutritious
+Chocolate Shake,Sweet,Theobromine,Cocoa Almond Shake,High protein; low sugar
+Milk Tea,Other,Tannins,Oat Milk Tea,Lactose-free and smooth
+Pancake,Sweet,Fructose,Banana Oat Pancake,Soft and natural sweetness
+Jalebi,Sweet,Sucrose,Baked Jaggery Jalebi,Low oil; same taste
+Appam,Umami,Glutamate,Ragi Appam,Light fermented variant
+Upma,Other,Linalool,Millet Upma,Fiber-rich and aromatic
+Poha,Other,Limonene,Vegetable Poha,Light and balanced breakfast
+Khichdi,Umami,Glutamate,Millet Khichdi,Protein-balanced wholesome dish
+Uttapam,Umami,Glutamate,Vegetable Uttapam,Fermented and flavorful
+Lassi,Sweet,Lactose,Mango Yogurt Smoothie,Probiotic and nutrient-dense
+Raita,Sour,Lactic acid,Cucumber Yogurt Salad,Refreshing and cooling
+Palak Paneer,Umami,Glutamate,Spinach-Tofu Curry,Rich flavor; low fat
+Rajma Chawal,Umami,Guanylate,Millet Rajma Bowl,High protein; fiber-rich
+Aloo Gobi,Other,Linalool,Grilled Aloo Gobi,Low oil; retains aroma
+Masala Dosa,Umami,Glutamate,Millet Dosa,Fermented savory version
+Vada Pav,Other,Limonene,Baked Vada Pav,Low oil; same taste
+Fish Curry,Umami,Inosinate,Grilled Fish Curry,Low-fat version
+Crab Curry,Umami,Cysteine,Steamed Crab Curry,Lightened flavorful curry
+Prawn Fry,Umami,Inosinate,Grilled Prawn Skewers,High protein; less oil
+Egg Curry,Umami,Lysine,Boiled Egg Masala,Low oil; high protein
+Tomato Soup,Sour,Citric acid,Clear Tomato Broth,Refreshing and light
+Mushroom Soup,Umami,Glutamate,Low Cream Soup,Rich umami taste
+Chicken Soup,Umami,Inosinate,Vegetable Chicken Broth,Healthy protein soup
+Veg Cutlet,Other,Linalool,Baked Veg Cutlet,Crunchy and low oil
+Paneer Roll,Umami,Glutamate,Tofu Roll,High protein; less fat
+Tandoori Chicken,Umami,Inosinate,Grilled Tandoori Paneer,Protein-rich; less oil
+Mutton Curry,Umami,Inosinate,Soya Mutton Curry,Plant-protein version
+Dal Fry,Umami,Glutamic acid,Moong Dal Fry,Light and protein-rich
+Curd Rice,Sour,Lactic acid,Millet Curd Bowl,Probiotic and cooling
+Rava Kesari,Sweet,Maltose,Oats Kesari,Healthy sweet variant
+Chapati,Other,Linalool,Multigrain Chapati,Fiber-enhanced version
+Paneer Bhurji,Umami,Glutamate,Tofu Bhurji,High protein; light
+Puttu,Other,Linalool,Oats Coconut Puttu,High fiber version
+Chicken Biryani,Umami,Inosinate,Grilled Chicken Rice,Low oil; strong umami
+Egg Fried Rice,Umami,Lysine,Vegetable Fried Rice,Protein-rich; balanced
+Veg Chow Mein,Umami,Glutamate,Millet Chow Mein,Low sodium; high fiber
+Pasta Arrabiata,Umami,Guanylate,Whole Wheat Pasta,Spicy and rich in umami
+Chilli Chicken,Umami,Glutamate,Grilled Chilli Tofu,Low-fat savory option
+Fish Fry,Umami,Inosinate,Grilled Fish,Low oil; maintains taste
+Kothu Parotta,Umami,Glutamate,Whole Wheat Parotta,Flavorful and balanced
+Schezwan Noodles,Umami,Glutamate,Millet Schezwan Noodles,Spicy yet healthy
+Veg Momos,Umami,Glutamate,Steamed Millet Momos,Low oil and rich filling
+Chicken Momos,Umami,Inosinate,Steamed Chicken Dumplings,High protein; healthy
+Fried Chicken,Umami,Cysteine,Air Fried Chicken,Low oil; same crunch
+Veg Frankie,Other,Limonene,Baked Veg Frankie,Low oil; fresh taste
+Chicken Frankie,Umami,Inosinate,Grilled Chicken Wrap,Protein-packed; less oil
+Sweet Lassi,Sweet,Lactose,Honey Yogurt Shake,Low sugar; probiotic
+Dal Makhani,Umami,Glutamate,Oats Dal Curry,Rich flavor; healthy twist
+Veg Kofta,Umami,Glutamate,Baked Veg Kofta Curry,Low oil; same taste
+Aloo Matar,Umami,Glutamate,Grilled Aloo Matar,Light and flavorful
+Gobi Manchurian,Umami,Monosodium Glutamate,Baked Cauliflower Manchurian,Low-fat crispy version
+Pesto Pasta,Umami,Glutamate,Whole Wheat Pesto Pasta,Basil and nuts give deep umami; healthier whole-grain version
+Shrimp Scampi,Umami,Inosinate,Grilled Shrimp Bowl,High protein with reduced butter
+Tortilla Chips,Other,Limonene,Baked Tortilla Chips,Crunchy with far less oil
+Garlic Bread,Umami,Glutamate,Whole Wheat Garlic Toast,Lower butter; same savory profile
+Caesar Salad,Umami,Guanylate,Light Caesar Salad,Reduced dressing; keeps umami depth
+Minestrone Soup,Umami,Glutamate,Vegetable Clear Minestrone,Light broth with rich savory notes
+Lasagna,Umami,Inosinate,Vegetable Whole Wheat Lasagna,Lower fat; keeps layered umami
+Mac and Cheese,Umami,Glutamate,Low-Fat Mac & Cheese,Creamy savory flavor with less cheese
+Guacamole,Other,Limonene,Low-Salt Avocado Dip,Natural citrus and creamy consistency
+Pancit Noodles,Umami,Glutamate,Whole Wheat Pancit,Healthy noodle variant
+Tandoori Fish,Umami,Inosinate,Grilled Herb Fish,Low oil; smoky flavor preserved
+Kathi Paneer Roll,Umami,Glutamate,Whole Wheat Paneer Roll,Fiber-rich version
+Turkey Sandwich,Umami,Inosinate,Grilled Chicken Sandwich,Lean and savory
+Focaccia Bread,Other,Linalool,Whole Wheat Focaccia,Aromatic with less oil
+Shepherd’s Pie,Umami,Cysteine,Vegetable Lentil Pie,Savory depth from lentils
+Garlic Naan,Umami,Glutamate,Whole Wheat Garlic Naan,Healthier flatbread; same flavor
+Mushroom Risotto,Umami,Guanylate,Brown Rice Risotto,Deep savory mushroom notes
+Chicken Wrap,Umami,Inosinate,Grilled Vegetable Wrap,High fiber and low fat
+Fish Tikka,Umami,Cysteine,Grilled Fish Fillet,Savory and smoky flavor
+Mushroom Pizza,Umami,Glutamate,Whole Wheat Veg Pizza,Strong umami due to mushrooms
+Tandoori Prawn,Umami,Inosinate,Grilled Prawn Skewer,Lean protein; reduced charring
+BBQ Chicken,Umami,Inosinate,Grilled BBQ Paneer,Smoky flavor with lower fat
+BBQ Ribs,Umami,Cysteine,Lean BBQ Chicken,Reduced fat but smoky sweetness kept
+Fried Shrimp,Umami,Inosinate,Grilled Shrimp,Low oil; similar savory intensity
+Chicken Nuggets,Umami,Cysteine,Baked Veg Nuggets,Crispy and protein-rich
+Mutton Fry,Umami,Inosinate,Grilled Soya Fry,High protein alternative
+Goan Fish Curry,Umami,Glutamate,Grilled Fish Curry,Deep coconut umami; low fat
+Paneer Korma,Umami,Glutamate,Cashew Paneer Korma,Richer texture with less cream
+Veg Stew,Umami,Glutamate,Coconut Veg Stew,Savory and aromatic
+Egg Biryani,Umami,Lysine,Vegetable Biryani,High protein and fiber
+Non-Veg Thali,Umami,Inosinate,Balanced Veg Thali,Less fat; still protein-rich
+Veg Thali,Umami,Glutamate,Millet Veg Thali,Wholesome balanced meal
+Fish Sandwich,Umami,Inosinate,Grilled Fish Sandwich,Moist and savory; less oil
+Shrimp Pasta,Umami,Inosinate,Grilled Shrimp Whole Wheat Pasta,Deep seafood umami
+Beef Burger,Umami,Cysteine,Chicken Grill Burger,Lower fat and cleaner taste
+Hot Wings,Umami,Cysteine,Air-Fried Hot Wings,Crispy and spicy without oil
+BBQ Wings,Umami,Cysteine,Air-Fried BBQ Wings,Smoky and tangy with minimal oil
+Fried Fish,Umami,Inosinate,Grilled Fish,Healthier; retains seafood umami
+Fish Balls,Umami,Inosinate,Steamed Fish Balls,Soft and savory with less oil
+Chicken Meatballs,Umami,Cysteine,Air-Fried Veg Meatballs,Low-fat protein-rich
+Beef Steak,Umami,Cysteine,Grilled Chicken Steak,High protein; lighter meat option
+Mutton Soup,Umami,Inosinate,Vegetable Bone Broth,Light yet savory
+Chicken Keema,Umami,Inosinate,Soya Keema,High protein plant-based
+Sausage Roll,Umami,Cysteine,Whole Wheat Veg Sausage Roll,Lower fat and clean taste
+Omelette Sandwich,Umami,Lysine,Veg Omelette Sandwich,High protein and lighter
+Chicken Parmesan,Umami,Glutamate,Baked Paneer Parmesan,Cheesy yet healthier
+Pesto Sandwich,Umami,Glutamate,Whole Wheat Pesto Sandwich,Nutty savory richness
+Shawarma,Umami,Cysteine,Grilled Veg Shawarma,Less oily retains spices
+Falafel Wrap,Umami,Glutamate,Baked Falafel Wrap,High fiber crunchy and savory
+Hummus Bowl,Umami,Glutamate,Low-Oil Hummus Bowl,Protein-rich creamy dish
+Veg Lasagna,Umami,Guanylate,Whole Wheat Veg Lasagna,Fiber-rich savory layers
+Thai Curry,Umami,Glutamate,Light Coconut Thai Curry,Deep savory notes lower fat
+Pad Thai,Umami,Glutamate,Rice Noodle Veg Pad Thai,Sweet-savory balance
+Sushi Bowl,Umami,Inosinate,Vegetable Sushi Bowl,Light and nutritious
+Shrimp Sushi,Umami,Inosinate,Vegetable Sushi,Rice-based umami alternative
+Fish Pulao,Umami,Inosinate,Vegetable Pulao,Light savory aromatic rice
+Chicken Korma,Umami,Inosinate,Cashew Veg Korma,Richer taste with less fat
+Mutton Biryani,Umami,Inosinate,Chicken Biryani,Lower fat; retains rich aroma
+Beef Curry,Umami,Cysteine,Soya Curry,Plant protein with deep spices
+Lemon Rice,Sour,Citric acid,Millet Lemon Rice,Tangy and lighter variant
+Puliyogare,Sour,Tamarind,Millet Puliyogare,Sour-sweet depth with fiber
+Rasam,Sour,Ascorbic acid,Lemon Rasam,Tangy and light
+Sambar,Umami,Glutamate,Millet Sambar,Thicksavory lentil-based
+Orange Juice,Sour,Citric acid / Sucrose,Fresh Orange Juice (no sugar),High vitamin Cavoid packaged sugars
+Apple Juice,Sweet,Fructose,Fresh Apple Juice (no sugar),Natural sweetness with fiber
+Mango Juice,Sweet,Sucrose,Mango Smoothie with Yogurt,Probiotic and natural sweetness
+Pineapple Juice,Sour,Citric acid,Fresh Pineapple Juice,Rich in enzymes; tangy flavor
+Grape Juice,Sweet,Glucose,Fresh Grape Juice (no sugar),Antioxidant-rich; avoid concentrated juice
+Lemonade,Sour,Citric acid,Mint Lemon Detox Water,Natural refreshing flavor
+Tea,Other,Tannins,Green Tea,Antioxidant-rich with mild bitterness
+Coffee,Bitter,Caffeine,Decaf Coffee,Rich aroma with reduced bitterness
+Cola,Bitter,Phosphoric acid,Lemon Sparkling Water,Refreshing low-cal drink
+Energy Drink,Bitter,Caffeine,Natural Electrolyte Drink,Hydrating energy booster
+Pizza,Umami,Inosinate,Whole Wheat Veg Pizza,Cheese and tomato give strong umami; whole grains are healthier
+Burger,Umami,Cysteine,Grilled Veg Burger,High-protein umami; reduces oil content
+Fries,Other,Acrolein,Air Fried Fries,Retains crispness with less oil
+Samosa,Other,Linalool,Baked Samosa,Spicy and aromatic; less oily version
+Pakora,Other,Limonene,Grilled Pakora,Crunchy yet healthy baked alternative
+Upma,Other,Linalool,Millet Upma,Fiber-rich and aromatic
+Dosa,Umami,Glutamate,Buckwheat Dosa,Light and savory; enhances digestibility
+Idli,Umami,Glutamic acid,Oats Idli,Rich in umami amino acids; fermented and protein-balanced
+Pav Bhaji,Umami,Glutamate,Millet Pav Bhaji,Less butter; same umami intensity
+Biryani,Umami,Guanylate,Millet Vegetable Biryani,Retains meaty umami flavor; lower oil content
+Chicken Biryani,Umami,Inosinate,Grilled Chicken Rice,Low oil; strong umami
+Mutton Biryani,Umami,Inosinate,Chicken Biryani,Lower fat; retains rich aroma
+Dal Makhani,Umami,Glutamate,Oats Dal Curry,Rich flavor; healthy twist
+Chole Curry,Umami,Glutamic acid,Boiled Chickpeas Salad,High protein; lighter on oil
+Butter Chicken,Umami,Inosinate,Grilled Paneer Curry,Reduced fat; same umami flavor
+Paneer Butter Masala,Umami,Glutamate,Cashew Paneer Curry,Low cream; same richness
+Veg Pulao,Umami,Guanylate,Quinoa Pulao,Nutrient-dense variation
+Fried Rice,Other,Acrolein,Brown Rice Stir Fry,High fiber; mild savory flavor
+Paratha,Other,Linalool,Multigrain Paratha,Aromatic and nutritious
+Poori,Other,Linalool,Baked Poori,Crunchy and low-fat
+Vada,Other,Limonene,Baked Vada,Healthy crisp version
+Bajji,Other,Acrolein,Air Fried Bajji,Crunchy and low oil
+Pasta,Umami,Glutamate,Whole Wheat Pasta,Maintains savory depth with added fiber
+Pasta Sauce,Umami,Guanylate,Tomato Basil Sauce,Rich umami with low sodium
+Pasta Alfredo,Umami,Glutamate,Oats Cream Pasta,Low-fat and creamy
+Pasta Arrabiata,Umami,Guanylate,Whole Wheat Pasta,Spicy and rich in umami
+Mac and Cheese,Umami,Glutamate,Low-Fat Mac & Cheese,Creamy savory flavor with less cheese
+Soup,Umami,Glutamate,Vegetable Clear Soup,Savory and light
+Tomato Soup,Sour,Citric acid,Clear Tomato Broth,Refreshing and light
+Mushroom Soup,Umami,Glutamate,Low Cream Soup,Rich umami taste
+Chicken Soup,Umami,Inosinate,Vegetable Chicken Broth,Healthy protein soup
+Rasam,Sour,Ascorbic acid,Lemon Rasam,Tangy and light
+Sambar,Umami,Glutamate,Millet Sambar,Thick and savory lentil-based
+Lemon Rice,Sour,Citric acid,Millet Lemon Rice,Tangy and lighter variant
+Puliyogare,Sour,Tamarind,Millet Puliyogare,Sour-sweet depth with fiber
+Raita,Sour,Lactic acid,Cucumber Yogurt Salad,Refreshing and cooling
+Curd Rice,Sour,Lactic acid,Millet Curd Bowl,Probiotic and cooling
+Lassi,Sweet,Lactose,Mango Yogurt Smoothie,Probiotic and nutrient-dense
+Sweet Lassi,Sweet,Lactose,Honey Yogurt Shake,Low sugar; probiotic
+Milkshake,Sweet,Lactose,Banana Almond Smoothie,Nutrient-rich alternative
+Chocolate,Bitter,Theobromine,Dark Chocolate (>70%),Cocoa-rich with less sugar
+Hot Chocolate,Sweet,Theobromine,Low Sugar Cocoa Drink,Rich cocoa taste
+Ice Cream,Sweet,Sucrose,Frozen Yogurt,Rich in sweetness; probiotic alternative
+Cake,Sweet,Fructose,Whole Wheat Jaggery Cake,Soft texture with natural sweetness
+Brownie,Sweet,Glucose,Dates Brownie,Naturally sweetened
+Donut,Sweet,Sucrose,Baked Millet Donut,Healthier with natural sweeteners
+Rasgulla,Sweet,Sucrose,Stevia Rasgulla,Low-calorie sweetness
+Halwa,Sweet,Maltose,Oats Halwa,Nutrient-rich; made with jaggery
+Laddu,Sweet,Glucose,Flaxseed Laddu,High fiber and omega-3 variant
+Falooda,Sweet,Fructose,Chia Fruit Falooda,Hydrating and low-sugar
+

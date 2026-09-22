@@ -1,0 +1,4 @@
+SMILES,Bitter,Sweet,Umami,Other,Dominant
+CCO,0.44,0.35,0.01,0.2,BITTER
+c1ccccc1,0.4,0.54,0.0,0.06,SWEET
+CC(=O)Oc1ccccc1C(=O)O,0.32,0.31,0.09,0.28,BITTER
